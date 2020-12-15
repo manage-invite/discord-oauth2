@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reboxer/discord-oauth2.git"
+    "url": "git+https://github.com/ManageInvite/discord-oauth2.git"
   },
   "keywords": [
     "api",
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reboxer/discord-oauth2/issues"
+    "url": "https://github.com/ManageInvite/discord-oauth2/issues"
   },
-  "homepage": "https://github.com/reboxer/discord-oauth2#readme",
+  "homepage": "https://github.com/ManageInvite/discord-oauth2#readme",
   "devDependencies": {
     "eslint": "^7.13.0"
   }
