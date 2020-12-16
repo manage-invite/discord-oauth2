@@ -85,7 +85,7 @@ export interface PartialGuild {
 	permissions_new?: string;
 }
 
-export class OAuth extends EventEmitter {
+export default class OAuth extends EventEmitter {
 	constructor(opts?: {
 		version?: string,
 		clientId?: string,
